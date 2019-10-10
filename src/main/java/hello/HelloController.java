@@ -14,14 +14,14 @@ public class HelloController {
 	// return "Greetings from Spring Boot!";
 	String html = "<h1>Hello World!</h1>\n" +
 	    "<p>This web app is powered by \n" +
-	    "<a href = 'https://github.com/YanwuTong/spring-boot-minimal-webapp'>this github repo</a></p>\n";
+	    "<a href ='https://github.com/YanwuTong/spring-boot-minimal-webapp'>this github repo</a></p>\n";
 	return html;
     }
     //*/
     /*
     String html = "<h1>Hello World!\n" +
 	"<p>This web app is powered by \n" +
-	"<a href = 'https://github.com/YanwuTong/spring-boot-minimal-webapp'>this github repo</a></p>\n";
+	"<a href ='https://github.com/YanwuTong/spring-boot-minimal-webapp'>this github repo</a></p>\n";
     return html;
     */
 
